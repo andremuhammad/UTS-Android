@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.1_1f01df9bd70f102532bd2957edf34b34da1f569a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_dfb8dbdc907e3d20cc3714d22319c16d79820e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_b8e9c3dd2138c04c4ba117fa6f51fb5f76a3adc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_83ffea56ac562e61b2a5abc1ffa37841f0930c30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_9d03b5350f9a593c406308749513b7736d1ea205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5eea8043dfb02e1675a3e1ba73b8b86a32e7cf1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cf567126d146869179c649533b34d8dd58ca832d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_3ef7e154a87e83085cd9dd2f71934333e7becaa1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_e6981722eefe806e11ff31c2363285db96e93a01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_94e3b76ce73b703eca87683a88e5ef70325204b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_85b4f9f0c1cd187732e6ece9d92c6f8400e453fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_1c18fac355b76e659a61e4bf8fd130d3fad7abde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_6885693e6ec7937498348335cd6a95a315d99ecf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_d0b5c23efeaa8cba34ea36f7d78bee13ed653289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_b7addfaf413e09ce2b5eac86722aa3f1d51f7d0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.3_6c29a17c5bffaf9d9db5b1b359c11af16dc49905.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_57332704574690b5ddc2c8ac5ee1250ac62434b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_edfa0c00da2aba05fcb30f9b9661dcaab7984237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\WINDOWS 7\AndroidStudioProjects\UTS_ANDROID-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_0d3c28bb6a3120aef66ad317e361296dc34b565c.jar" />
+    </item>
+
+</items>
